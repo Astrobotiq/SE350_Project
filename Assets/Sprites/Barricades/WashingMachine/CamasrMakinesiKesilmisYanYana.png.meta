@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: d63e2e41c3a0d9845b6ddeee04bd732a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 263
+        width: 118
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b619ec65d1269c44a7ce17e66944d78
+      internalID: 575231126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 262
+        width: 118
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c840bd06ed5034aaa1d7024f880c28
+      internalID: 1400904786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 262
+        width: 118
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0995b3d8dd9f19145aae35e0fca6d032
+      internalID: -1801773741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 263
+        width: 118
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b52761fcc0c7d44959830bbba7e4ea
+      internalID: -1195533293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 263
+        width: 118
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c7acfb445db8241b7371ac5cccc226
+      internalID: -405921581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 263
+        width: 118
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6eafe548c37d34b80f4210bec54c7d
+      internalID: -1688374015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 263
+        width: 148
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c6b66ff116f6478dd32889af6a27c
+      internalID: -1397218588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 263
+        width: 182
+        height: 184
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd54400a59f744c8c75606d0ef3806
+      internalID: -857166221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 82
+        height: 200
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff514116b9493fe43bdfa99e3ca6b292
+      internalID: -1402166660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 127
+        height: 203
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f591ea230007d264ea37a8f4e5098201
+      internalID: 718402971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 22
+        width: 147
+        height: 203
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49002c745e8a6e409bbd77a2cf271be
+      internalID: 822201460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 25
+        width: 164
+        height: 200
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29534109bd1506e468d51c8e6614377c
+      internalID: -740834471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 22
+        width: 172
+        height: 203
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6044305c24f04c857cb34fd94cf05
+      internalID: 1361291737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 24
+        width: 177
+        height: 201
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d31da8d188b79d43a816003137ea758
+      internalID: 954019866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_14
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 23
+        width: 167
+        height: 202
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d08697328d208346ad377d4b042099a
+      internalID: 103725193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_15
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 23
+        width: 129
+        height: 202
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a49f8b3d41ff4b88f518015b9dcfd
+      internalID: -2060714758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamasrMakinesiKesilmisYanYana_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 23
+        width: 110
+        height: 202
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7461ccc774ab19a47865726b737d95a0
+      internalID: -18791528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CamasrMakinesiKesilmisYanYana_0: 575231126
+      CamasrMakinesiKesilmisYanYana_1: 1400904786
+      CamasrMakinesiKesilmisYanYana_10: 822201460
+      CamasrMakinesiKesilmisYanYana_11: -740834471
+      CamasrMakinesiKesilmisYanYana_12: 1361291737
+      CamasrMakinesiKesilmisYanYana_13: 954019866
+      CamasrMakinesiKesilmisYanYana_14: 103725193
+      CamasrMakinesiKesilmisYanYana_15: -2060714758
+      CamasrMakinesiKesilmisYanYana_16: -18791528
+      CamasrMakinesiKesilmisYanYana_2: -1801773741
+      CamasrMakinesiKesilmisYanYana_3: -1195533293
+      CamasrMakinesiKesilmisYanYana_4: -405921581
+      CamasrMakinesiKesilmisYanYana_5: -1688374015
+      CamasrMakinesiKesilmisYanYana_6: -1397218588
+      CamasrMakinesiKesilmisYanYana_7: -857166221
+      CamasrMakinesiKesilmisYanYana_8: -1402166660
+      CamasrMakinesiKesilmisYanYana_9: 718402971
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

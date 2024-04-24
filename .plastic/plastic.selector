@@ -1,0 +1,4 @@
+repository "Plastic SCM@SE350_Project@cloud"
+  path "/"
+    smartbranch "/main"    
+     
